@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.icxd.imguitest.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"RenderSystemMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
